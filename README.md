@@ -1,6 +1,6 @@
 ### Hi there, I'm Felipe - aka [LittleBigTech][website] aka Kudos 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=LittleBigTech.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://littlebigtech.net/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Developer, Learner and Tech Enthusiast!!
