@@ -54,6 +54,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry Pi 4 minecraft server using Docker and ngrok. No port forwarding required!](/Raspberry-pi-4-minecraft-server-no-port-forwarding)
+- [Setting Up Cookie Compliance For Google Analytics On A Jekyll Site](/Setting-Up-Cookie-Compliance-For-Google-Analytics-On-A-Jekyll-Site)
+- [Setting up a minecraft server with AWS and Docker for free](/Setting-up-a-minecraft-server-with-AWS-and-Docker)
+- [Welcome!](/Welcome!)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://littlebigtech.net/)
