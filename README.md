@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=LittleBigTech.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://littlebigtech.net/)
 
-## I'm a Developer, Learner and Tech Enthusiast!
+## I'm a Computer Engineering Student and Tech Enthusiast!
 
 - 🔭 I recently started my own website!: [LittleBigTech][website]!
 - 🌱 I’m currently learning different static website technologies.
