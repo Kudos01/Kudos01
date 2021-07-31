@@ -22,6 +22,13 @@
 
 [<img align="left" alt="Rust" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_rust.png?raw=true" />][rustrepo]
 
+[<img align="left" alt="AWS" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_aws.png?raw=true" />][awspost]
+
+[<img align="left" alt="Docker" width="26px" src="https://i.imgur.com/VyjCJuz.png" />][awspost]
+
+<img style="pointer-events: none" align="left" alt="C" width="26px" src="https://i.imgur.com/zINUxVf.png" />
+
+
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -99,6 +106,8 @@
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://www.linkedin.com/in/felipe-perez-stoppa-a61620180/
 [rustrepo]: https://github.com/Kudos01/aos_Fat16_Ext2
+[awspost]: https://littlebigtech.net/Setting-up-a-minecraft-server-with-AWS-and-Docker
+
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
