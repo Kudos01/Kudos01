@@ -26,7 +26,7 @@
 
 [<img align="left" alt="Docker" width="26px" src="https://i.imgur.com/VyjCJuz.png" />][awspost]
 
-<img draggable=”false” border=”0″ align="left" alt="C" width="26px" src="https://i.imgur.com/zINUxVf.png" />
+<img style="pointer-events: none !important" align="left" alt="C" width="26px" src="https://i.imgur.com/zINUxVf.png" />
 
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
