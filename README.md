@@ -13,6 +13,7 @@
 [<img align="left" alt="littlebigtech.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Little Big Tech | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Little Big Tech | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Little Big Tech | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 
 <br />
 
@@ -71,6 +72,7 @@
 [youtube]: https://www.youtube.com/channel/UCpdsyfuujlxsljDBwhGHaVQ
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://www.linkedin.com/in/felipe-perez-stoppa-a61620180/
+[stackoverflow]: https://stackoverflow.com/users/10196893/littlebigtech
 [rustrepo]: https://github.com/Kudos01/aos_Fat16_Ext2
 [awspost]: https://littlebigtech.net/Setting-up-a-minecraft-server-with-AWS-and-Docker
 
