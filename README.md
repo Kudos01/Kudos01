@@ -55,6 +55,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hosting a website with AWS EC2 for free using NGINX](/Hosting-A-Website-On-AWS-For-Free)
 - [Raspberry Pi 4 minecraft server using Docker and ngrok. No port forwarding required!](/Raspberry-pi-4-minecraft-server-no-port-forwarding)
 - [Setting Up Cookie Compliance For Google Analytics On A Jekyll Site](/Setting-Up-Cookie-Compliance-For-Google-Analytics-On-A-Jekyll-Site)
 - [Setting up a minecraft server with AWS and Docker for free](/Setting-up-a-minecraft-server-with-AWS-and-Docker)
