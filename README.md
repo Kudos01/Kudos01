@@ -55,7 +55,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Privacy](https://littlebigtech.net/privacy/)
+- [Hugo GDPR Cookie Consent Banner](https://littlebigtech.net/posts/hugo-gdpr-cookie-consent-banner/)
 - [Hosting Static Sites Using Linode Bucket Storage](https://littlebigtech.net/posts/static-site-hosting-using-linode-bucket-storage/)
 - [Hosting a website with AWS EC2 for free using NGINX](https://littlebigtech.net/posts/hosting-a-website-on-aws-for-free/)
 - [Raspberry Pi 4 minecraft server using Docker and ngrok. No port forwarding required!](https://littlebigtech.net/posts/raspberry-pi-4-minecraft-server-no-port-forwarding/)
