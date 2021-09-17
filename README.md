@@ -55,11 +55,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fixing Http Redirections in NGINX](https://littlebigtech.net/posts/fixing-http-redirections-nginx/)
 - [Hugo GDPR Cookie Consent Banner](https://littlebigtech.net/posts/hugo-gdpr-cookie-consent-banner/)
 - [Hosting Static Sites Using Linode Bucket Storage](https://littlebigtech.net/posts/static-site-hosting-using-linode-bucket-storage/)
 - [Hosting a website with AWS EC2 for free using NGINX](https://littlebigtech.net/posts/hosting-a-website-on-aws-for-free/)
 - [Raspberry Pi 4 minecraft server using Docker and ngrok. No port forwarding required!](https://littlebigtech.net/posts/raspberry-pi-4-minecraft-server-no-port-forwarding/)
-- [Cookie Compliance For Google Analytics On A Jekyll Site](https://littlebigtech.net/posts/setting-up-cookie-compliance-for-google-analytics-on-a-jekyll-site/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://littlebigtech.net/)
