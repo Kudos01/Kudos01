@@ -5,15 +5,15 @@
 ## I'm a Computer Engineering Student and Tech Enthusiast!
 
 - 🔭 I recently started my own website!: [LittleBigTech][website]!
-- 🌱 I’m currently learning different static website technologies.
+- 🌱 I’m currently working on a basic operating system for the raspberry pi4 coded.
 - ⚡ Fun fact: I love to read books!
 
 ### Connect with me:
 
-[<img align="left" alt="littlebigtech.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Little Big Tech | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Little Big Tech | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Little Big Tech | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="littlebigtech.net" width="22px" src="https://github.com/rdimascio/icons/blob/master/icons/color/google.svg" />][website]
+[<img align="left" alt="Little Big Tech | YouTube" width="22px" src="https://github.com/rdimascio/icons/blob/master/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Little Big Tech | LinkedIn" width="22px" src="https://github.com/rdimascio/icons/blob/master/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Little Big Tech | StackOverflow" width="22px" src="https://github.com/rdimascio/icons/blob/master/icons/stackoverflow.svg" />][stackoverflow]
 
 <br />
 
@@ -25,7 +25,7 @@
 
 [<img align="left" alt="Python" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true" />][website]
 
-[<img align="left" alt="AWS" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_aws.png?raw=true" />][awspost]
+[<img align="left" alt="AWS" width="26px" src="https://github.com/rdimascio/icons/blob/master/icons/color/aws.svg" />][awspost]
 
 [<img align="left" alt="Docker" width="26px" src="https://i.imgur.com/VyjCJuz.png" />][awspost]
 
