@@ -6,7 +6,7 @@
 
 - ### ⚡ Fun fact: I love playing videogames!
 
-<h3> What am I working on? </h3>
+## What am I working on?
 <table>
  <tr>
     <td><b style="font-size:30px"> 📝 Current Projects: </b></td>
@@ -21,8 +21,8 @@
    <td>Distributed Architecture</td>
  </tr>
  <tr>
-  <td>Operating systems Final Thesis</td>
   <td>Raspberry pi OS with Rust</td>
+  <td>Operating systems</td>
  </tr>
 </table>
 <br>
