@@ -4,9 +4,28 @@
 
 ## I'm a Computer Engineering Student and Tech Enthusiast!
 
-- ### 🔭 I recently started my own website!: [LittleBigTech][website]!
-- ### 🌱 I’m currently working on a basic operating system for the raspberry pi4 coded.
 - ### ⚡ Fun fact: I love playing videogames!
+
+<h3> What am I working on? </h3>
+<table>
+ <tr>
+    <td><b style="font-size:30px"> 📝 Current Projects: </b></td>
+    <td><b style="font-size:30px"> 📖 Currently Learning: </b></td>
+ </tr>
+ <tr>
+    <td> RPC Distributed Architecture Program with <a href="https://github.com/ayoul10">Kudos01</a></td>
+    <td> Computer Architecture</td>
+ </tr>
+ <tr>
+   <td>Software Methodology Design Patterns</td>
+   <td>Distributed Architecture</td>
+ </tr>
+ <tr>
+  <td>Operating systems Final Thesis</td>
+  <td>Raspberry pi OS with Rust</td>
+ </tr>
+</table>
+<br>
 
 ### Connect with me:
 
