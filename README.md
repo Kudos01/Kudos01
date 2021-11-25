@@ -13,7 +13,7 @@
     <td><b style="font-size:30px"> 📖 Currently Learning: </b></td>
  </tr>
  <tr>
-    <td> RPC Distributed Architecture Program with <a href="https://github.com/ayoul10">Kudos01</a></td>
+    <td> RPC Distributed Architecture Program with <a href="https://github.com/ayoul10">Ayoul10</a></td>
     <td> Computer Architecture</td>
  </tr>
  <tr>
