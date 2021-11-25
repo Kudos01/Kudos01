@@ -17,12 +17,12 @@
     <td> Computer Architecture</td>
  </tr>
  <tr>
-   <td>Software Methodology Design Patterns</td>
-   <td>Distributed Architecture</td>
+   <td> Personal Website</td>
+   <td> iOS and Android App development</td>
  </tr>
  <tr>
-  <td>Raspberry pi OS with Rust</td>
-  <td>Operating systems</td>
+  <td> Raspberry pi OS with Rust</td>
+  <td> Operating systems</td>
  </tr>
 </table>
 <br>
