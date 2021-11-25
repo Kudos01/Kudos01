@@ -26,7 +26,7 @@
  </tr>
 </table>
 
-## Connect with me:
+## Connect with me
 
 [<img align="left" alt="littlebigtech.net" width="22px" src="https://github.com/rdimascio/icons/blob/master/icons/color/google.svg" />][website]
 [<img align="left" alt="Little Big Tech | YouTube" width="22px" src="https://github.com/rdimascio/icons/blob/master/icons/youtube.svg" />][youtube]
@@ -35,7 +35,7 @@
 
 <br />
 
-## Languages and Tools:
+## Languages and Tools
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 
@@ -70,7 +70,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Fixing Http Redirections in NGINX](https://littlebigtech.net/posts/fixing-http-redirections-nginx/)
