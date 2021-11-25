@@ -1,4 +1,4 @@
-### Hi there, I'm Felipe 👋
+# Hi there, I'm Felipe 👋
 
 [![Website](https://img.shields.io/website?label=LittleBigTech.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://littlebigtech.net/)
 
