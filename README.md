@@ -4,9 +4,9 @@
 
 ## I'm a Computer Engineering Student and Tech Enthusiast!
 
-- 🔭 I recently started my own website!: [LittleBigTech][website]!
-- 🌱 I’m currently working on a basic operating system for the raspberry pi4 coded.
-- ⚡ Fun fact: I love to read books!
+- ### 🔭 I recently started my own website!: [LittleBigTech][website]!
+- ### 🌱 I’m currently working on a basic operating system for the raspberry pi4 coded.
+- ### ⚡ Fun fact: I love playing videogames!
 
 ### Connect with me:
 
