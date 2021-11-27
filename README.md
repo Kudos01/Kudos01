@@ -44,7 +44,7 @@
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=9776b8)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=9776b8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=9776b8)
-![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=9776b8)
+[<img src="https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=9776b8"/>][rustrepo]
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=9776b8)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=9776b8)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=9776b8)
@@ -56,7 +56,7 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=ab69cf)
 <br>
 [<img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=ab69cf"/>][awspost]
-![](https://img.shields.io/badge/Cloud-Linode-informational?style=flat&logo=linode&logoColor=white&color=ab69cf)
+[<img src="https://img.shields.io/badge/Cloud-Linode-informational?style=flat&logo=linode&logoColor=white&color=ab69cf"/>][linodepost]
 <br>
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=643578)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode-idea&logoColor=white&color=643578)
@@ -80,14 +80,10 @@
 <img align="left" alt="LittleBigTech's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kudos01&show_icons=true&hide_border=true" />
 
 [website]: https://littlebigtech.net/
-[course]: http://vsCodeHero.com
 [youtube]: https://www.youtube.com/channel/UCpdsyfuujlxsljDBwhGHaVQ
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://www.linkedin.com/in/felipe-perez-stoppa-a61620180/
 [stackoverflow]: https://stackoverflow.com/users/10196893/littlebigtech
 [rustrepo]: https://github.com/Kudos01/aos_Fat16_Ext2
-[awspost]: https://littlebigtech.net/Setting-up-a-minecraft-server-with-AWS-and-Docker
-
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[awspost]: https://littlebigtech.net/posts/setting-up-a-minecraft-server-with-aws-and-docker/
+[linodepost]: https://littlebigtech.net/posts/static-site-hosting-using-linode-bucket-storage/
