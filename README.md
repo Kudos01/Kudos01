@@ -43,7 +43,7 @@
 ![a](https://img.shields.io/badge/OS-Windows10-informational?style=flat&logo=windows&logoColor=white&color=7e8ebf)
 <br>
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=9776b8)
-![](https://img.shields.io/badge/Code-Cpp-informational?style=flat&logo=cpp&logoColor=white&color=9776b8)
+![](https://img.shields.io/badge/Code-Cpp-informational?style=flat&logo=c++&logoColor=white&color=9776b8)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=9776b8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=9776b8)
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=9776b8)
