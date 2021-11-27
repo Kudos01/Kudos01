@@ -54,6 +54,7 @@
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=ab69cf)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=ab69cf)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=ab69cf)
+[<img src="https://img.shields.io/badge/Tools Click me!-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=ab69cf"/>][nginxpost]
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=ab69cf)
 <br>
 [<img src="https://img.shields.io/badge/Cloud Click me!-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=ab69cf"/>][awspost]
@@ -86,3 +87,4 @@
 [rustrepo]: https://github.com/Kudos01/aos_Fat16_Ext2
 [awspost]: https://littlebigtech.net/posts/setting-up-a-minecraft-server-with-aws-and-docker/
 [linodepost]: https://littlebigtech.net/posts/static-site-hosting-using-linode-bucket-storage/
+[nginxpost]: https://littlebigtech.net/posts/fixing-http-redirections-nginx/
