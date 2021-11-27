@@ -28,8 +28,8 @@
 
 ## Connect with me
 
-[![Website](https://img.shields.io/badge/-LittleBigTech-orange?style=flat-square&logo=stack-overflow&logoColor=white&link=https://www.linkedin.com/in/fpstoppa/)][stackoverflow]
-[![Website](https://img.shields.io/badge/-LittleBigTech-black?style=flat-square&logo=website&logoColor=white&link=https://www.linkedin.com/in/fpstoppa/)][website]
+[![Website](https://img.shields.io/badge/-LittleBigTech-dark-orange?style=flat-square&logo=stack-overflow&logoColor=white&link=https://www.linkedin.com/in/fpstoppa/)][stackoverflow]
+[![Website](https://img.shields.io/badge/-LittleBigTech-black?style=flat-square&logo=globe&logoColor=white&link=https://www.linkedin.com/in/fpstoppa/)][website]
 <br>
 [![Linkedin Badge](https://img.shields.io/badge/-Felipe_Perez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fpstoppa/)](https://www.linkedin.com/in/fpstoppa/)
 [![Gmail Badge](https://img.shields.io/badge/-littlebigtech0@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:littlebigtech0@gmail.com)](littlebigtech0@gmail.com)
