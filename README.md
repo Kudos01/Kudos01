@@ -28,11 +28,9 @@
 
 ## Connect with me
 
-[<img align="left" alt="littlebigtech.net" width="22px" src="https://github.com/rdimascio/icons/blob/master/icons/color/google.svg" />][website]
-[<img align="left" alt="Little Big Tech | YouTube" width="22px" src="https://github.com/rdimascio/icons/blob/master/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Little Big Tech | LinkedIn" width="22px" src="https://github.com/rdimascio/icons/blob/master/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Little Big Tech | StackOverflow" width="22px" src="https://github.com/rdimascio/icons/blob/master/icons/stackoverflow.svg" />][stackoverflow]
 
+[![Website](https://img.shields.io/badge/-LittleBigTech-black?style=flat-square&logo=website&logoColor=white&link=https://www.linkedin.com/in/fpstoppa/)][website]
 [![Linkedin Badge](https://img.shields.io/badge/-Felipe_Perez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fpstoppa/)](https://www.linkedin.com/in/fpstoppa/)
 [![Gmail Badge](https://img.shields.io/badge/-littlebigtech0@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:littlebigtech0@gmail.com)](littlebigtech0@gmail.com)
 
@@ -84,8 +82,6 @@
 
 [website]: https://littlebigtech.net/
 [youtube]: https://www.youtube.com/channel/UCpdsyfuujlxsljDBwhGHaVQ
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://www.linkedin.com/in/felipe-perez-stoppa-a61620180/
 [stackoverflow]: https://stackoverflow.com/users/10196893/littlebigtech
 [rustrepo]: https://github.com/Kudos01/aos_Fat16_Ext2
 [awspost]: https://littlebigtech.net/posts/setting-up-a-minecraft-server-with-aws-and-docker/
