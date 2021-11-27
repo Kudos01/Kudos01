@@ -43,7 +43,7 @@
 ![a](https://img.shields.io/badge/OS-Windows10-informational?style=flat&logo=windows&logoColor=white&color=7e8ebf)
 <br>
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=9776b8)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=9776b8)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=9776b8)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=9776b8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=9776b8)
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=9776b8)
@@ -54,7 +54,7 @@
 <br>
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=ab69cf)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=ab69cf)
-![](https://img.shields.io/badge/Tools-aws-informational?style=flat&logo=AWS&logoColor=white&color=ab69cf)
+![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=ab69cf)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=ab69cf)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=ab69cf)
 <br>
