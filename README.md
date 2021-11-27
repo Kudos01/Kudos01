@@ -37,44 +37,13 @@
 
 ## Languages and Tools
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-
-[<img align="left" alt="Rust" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_rust.png?raw=true" />][rustrepo]
-
-[<img align="left" alt="Python" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true" />][website]
-
-[<img align="left" alt="AWS" width="26px" src="https://github.com/rdimascio/icons/blob/master/icons/color/aws.svg" />][awspost]
-
-[<img align="left" alt="Docker" width="26px" src="https://i.imgur.com/VyjCJuz.png" />][awspost]
-
-[<img align="left" alt="C" width="26px" src="https://i.imgur.com/zINUxVf.png" />][website]
-
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][website]
-
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
-
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
-
-<br />
-<br />
-
 <h3>What Languages and Programs do I use?</h3>
 
 ![a](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=7e8ebf)
 ![a](https://img.shields.io/badge/OS-Windows10-informational?style=flat&logo=windows&logoColor=white&color=7e8ebf)
 <br>
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=9776b8)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cpp&logoColor=white&color=9776b8)
+![](https://img.shields.io/badge/Code-Cpp-informational?style=flat&logo=cpp&logoColor=white&color=9776b8)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=9776b8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=9776b8)
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=9776b8)
@@ -82,13 +51,11 @@
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=9776b8)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=9776b8)
 ![](https://img.shields.io/badge/Code-swift-informational?style=flat&logo=swift&logoColor=white&color=9776b8)
-
 <br>
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=ab69cf)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=ab69cf)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=ab69cf)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=ab69cf)
-
 <br>
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=643578)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode-idea&logoColor=white&color=643578)
