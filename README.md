@@ -28,8 +28,7 @@
 
 ## Connect with me
 
-[<img align="left" alt="Little Big Tech | StackOverflow" width="22px" src="https://github.com/rdimascio/icons/blob/master/icons/stackoverflow.svg" />][stackoverflow]
-
+[![Website](https://img.shields.io/badge/-LittleBigTech-black?style=flat-square&logo=stack-overflow&logoColor=white&link=https://www.linkedin.com/in/fpstoppa/)][stackoverflow]
 [![Website](https://img.shields.io/badge/-LittleBigTech-black?style=flat-square&logo=website&logoColor=white&link=https://www.linkedin.com/in/fpstoppa/)][website]
 [![Linkedin Badge](https://img.shields.io/badge/-Felipe_Perez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fpstoppa/)](https://www.linkedin.com/in/fpstoppa/)
 [![Gmail Badge](https://img.shields.io/badge/-littlebigtech0@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:littlebigtech0@gmail.com)](littlebigtech0@gmail.com)
