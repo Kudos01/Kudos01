@@ -35,9 +35,7 @@
 
 <br />
 
-## Languages and Tools
-
-<h3>What Languages and Programs do I use?</h3>
+## What Languages and Programs do I use?
 
 ![a](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=7e8ebf)
 ![a](https://img.shields.io/badge/OS-Windows10-informational?style=flat&logo=windows&logoColor=white&color=7e8ebf)
@@ -57,7 +55,7 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=ab69cf)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=ab69cf)
 <br>
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=ab69cf)
+![awspost](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=ab69cf)
 ![](https://img.shields.io/badge/Cloud-Linode-informational?style=flat&logo=linode&logoColor=white&color=ab69cf)
 <br>
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=643578)
