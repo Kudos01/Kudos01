@@ -4,8 +4,6 @@
 
 ## I'm a Computer Engineering Student and Tech Enthusiast!
 
-- ### ⚡ Fun fact: I love playing videogames!
-
 ## What am I working on?
 <table>
  <tr>
