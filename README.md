@@ -19,8 +19,8 @@
    <td> iOS and Android App development</td>
  </tr>
  <tr>
-  <td> Raspberry pi OS with Rust</td>
-  <td> Operating systems</td>
+  <td> Generating Album cover images with AI</td>
+  <td> Artificial intelligence</td>
  </tr>
 </table>
 
