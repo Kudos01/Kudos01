@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=LittleBigTech.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://littlebigtech.net/)
 
-## I'm a Computer Engineering Student and Tech Enthusiast!
+## I'm a Computer Engineer, Tech Enthusiast and DIY-er!
 
 ## What am I working on?
 <table>
@@ -11,16 +11,8 @@
     <td><b style="font-size:30px"> 📖 Currently Learning: </b></td>
  </tr>
  <tr>
-    <td> RPC Distributed Architecture Program with <a href="https://github.com/ayoul10">Ayoul10</a></td>
-    <td> Computer Architecture</td>
- </tr>
- <tr>
    <td> Personal Website</td>
-   <td> iOS and Android App development</td>
- </tr>
- <tr>
-  <td> Generating Album cover images with AI</td>
-  <td> Artificial intelligence</td>
+   <td> Vulkan </td>
  </tr>
 </table>
 
@@ -64,7 +56,9 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing Http Redirections in NGINX](https://littlebigtech.net/posts/fixing-http-redirections-nginx/)
+- [DIY USB to gameport adapter](https://littlebigtech.net/posts/diy-gameport-to-usb-adapter/)
+- [Extrenal PC fan control using an Arduino](https://littlebigtech.net/posts/control-external-pc-fan-based-on-cpu-temp/)
+- [WiFi access point using a raspberry pi](https://littlebigtech.net/posts/wifi-access-point-using-a-raspberry-pi-4/)
 - [Hugo GDPR Cookie Consent Banner](https://littlebigtech.net/posts/hugo-gdpr-cookie-consent-banner/)
 - [Hosting Static Sites Using Linode Bucket Storage](https://littlebigtech.net/posts/static-site-hosting-using-linode-bucket-storage/)
 - [Hosting a website with AWS EC2 for free using NGINX](https://littlebigtech.net/posts/hosting-a-website-on-aws-for-free/)
@@ -75,7 +69,7 @@
 
 ---
 
-<img align="left" alt="LittleBigTech's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kudos01&show_icons=true&hide_border=true" />
+<!-- <img align="left" alt="LittleBigTech's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kudos01&show_icons=true&hide_border=true" /> -->
 
 [website]: https://littlebigtech.net/
 [youtube]: https://www.youtube.com/channel/UCpdsyfuujlxsljDBwhGHaVQ
