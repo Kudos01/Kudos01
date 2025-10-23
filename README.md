@@ -20,23 +20,22 @@
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=9F2B68)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=BF40BF)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=800020)
-![](https://img.shields.io/badge/Code-vhdl-informational?style=flat&logo=python&logoColor=white&color=702963)
-![](https://img.shields.io/badge/Code-verilog-informational?style=flat&logo=python&logoColor=white&color=AA336A)
-![](https://img.shields.io/badge/Code-swift-informational?style=flat&logo=swift&logoColor=white&color=301934)
+![](https://img.shields.io/badge/Code-VHDL-informational?style=flat&logo=vhdl&logoColor=white&color=702963)
+![](https://img.shields.io/badge/Code-Verilog-informational?style=flat&logo=verilog&logoColor=white&color=AA336A)
+![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=301934)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=483248)
 [<img src="https://img.shields.io/badge/Code Click me!-Rust-informational?style=flat&logo=rust&logoColor=white&color=5D3FD3"/>][rustrepo]
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=AA98A9)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=E0B0FF)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=770737)
-![](https://img.shields.io/badge/Code-swift-informational?style=flat&logo=swift&logoColor=white&color=9776a9)
 <br>
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=ab69cf)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=ab69cf)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=ab69cf)
-[<img src="https://img.shields.io/badge/Tools Click me!-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=ab69cf"/>][nginxpost]
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=ab69cf)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=51414F)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=953553)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=D8BFD8)
+[<img src="https://img.shields.io/badge/Tools Click me!-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=630330"/>][nginxpost]
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=722F37)
 <br>
-[<img src="https://img.shields.io/badge/Cloud Click me!-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=ab69cf"/>][awspost]
+[<img src="https://img.shields.io/badge/Cloud Click me!-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=BDB5D5"/>][awspost]
 [<img src="https://img.shields.io/badge/Cloud Click me!-Linode-informational?style=flat&logo=linode&logoColor=white&color=ab69cf"/>][linodepost]
 <br>
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=643578)
