@@ -4,18 +4,6 @@
 
 ## I'm a Computer Engineer, Tech Enthusiast and DIY-er!
 
-## What am I working on?
-<table>
- <tr>
-    <td><b style="font-size:30px"> 📝 Current Projects: </b></td>
-    <td><b style="font-size:30px"> 📖 Currently Learning: </b></td>
- </tr>
- <tr>
-   <td> Personal Website</td>
-   <td> Vulkan </td>
- </tr>
-</table>
-
 ## Connect with me
 
 [![Website](https://img.shields.io/badge/-LittleBigTech-orange?style=flat-square&logo=stack-overflow&logoColor=white&link=https://www.linkedin.com/in/fpstoppa/)][stackoverflow]
