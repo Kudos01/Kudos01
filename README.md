@@ -38,7 +38,6 @@
 [<img src="https://img.shields.io/badge/Cloud Click me!-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=BDB5D5"/>][awspost]
 [<img src="https://img.shields.io/badge/Cloud Click me!-Linode-informational?style=flat&logo=linode&logoColor=white&color=ab69cf"/>][linodepost]
 <br>
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=643578)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode-idea&logoColor=white&color=643578)
 
 ---
