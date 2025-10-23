@@ -14,9 +14,6 @@
 
 ## What Languages and Programs do I use?
 
-![a](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=7e8ebf)
-![a](https://img.shields.io/badge/OS-Windows10-informational?style=flat&logo=windows&logoColor=white&color=7e8ebf)
-<br>
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=9F2B68)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=BF40BF)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=800020)
