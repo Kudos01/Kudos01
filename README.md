@@ -17,15 +17,17 @@
 ![a](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=7e8ebf)
 ![a](https://img.shields.io/badge/OS-Windows10-informational?style=flat&logo=windows&logoColor=white&color=7e8ebf)
 <br>
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=9776b8)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=9776b7)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=9776b6)
-![](https://img.shields.io/badge/Code-swift-informational?style=flat&logo=swift&logoColor=white&color=9776b5)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=9776b4)
-[<img src="https://img.shields.io/badge/Code Click me!-Rust-informational?style=flat&logo=rust&logoColor=white&color=9776b3"/>][rustrepo]
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=9776b2)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=9776b1)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=9776b0)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=9F2B68)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=BF40BF)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=800020)
+![](https://img.shields.io/badge/Code-vhdl-informational?style=flat&logo=python&logoColor=white&color=702963)
+![](https://img.shields.io/badge/Code-verilog-informational?style=flat&logo=python&logoColor=white&color=AA336A)
+![](https://img.shields.io/badge/Code-swift-informational?style=flat&logo=swift&logoColor=white&color=301934)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=483248)
+[<img src="https://img.shields.io/badge/Code Click me!-Rust-informational?style=flat&logo=rust&logoColor=white&color=5D3FD3"/>][rustrepo]
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=AA98A9)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=E0B0FF)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=770737)
 ![](https://img.shields.io/badge/Code-swift-informational?style=flat&logo=swift&logoColor=white&color=9776a9)
 <br>
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=ab69cf)
