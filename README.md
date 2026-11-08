@@ -10,11 +10,11 @@
 
 ## What Languages and Programs do I use?
 
+![](https://img.shields.io/badge/Code-VHDL-informational?style=flat&logo=vhdl&logoColor=white&color=702963)
+![](https://img.shields.io/badge/Code-Verilog-informational?style=flat&logo=verilog&logoColor=white&color=AA336A)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=9F2B68)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=BF40BF)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=800020)
-![](https://img.shields.io/badge/Code-VHDL-informational?style=flat&logo=vhdl&logoColor=white&color=702963)
-![](https://img.shields.io/badge/Code-Verilog-informational?style=flat&logo=verilog&logoColor=white&color=AA336A)
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=301934)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=483248)
 [<img src="https://img.shields.io/badge/Code Click me!-Rust-informational?style=flat&logo=rust&logoColor=white&color=5D3FD3"/>][rustrepo]
